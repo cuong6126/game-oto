@@ -1,0 +1,62 @@
+﻿  cuongdz.cpp
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(9,1): error C3873: '0x2022': this character is not allowed as a first character of an identifier
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(9,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(9,5): error C2146: syntax error: missing ';' before identifier 'Xây'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(13,1): error C3873: '0x2022': this character is not allowed as a first character of an identifier
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(13,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(13,1): error C2086: 'int •': redefinition
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(9): message : see declaration of '•'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(13,5): error C2146: syntax error: missing ';' before identifier 'Xây'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(16,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(16,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(23,1): error C2059: syntax error: '+'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(25,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(25,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(31,1): error C2059: syntax error: '+'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(33,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(33,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(42,1): error C2059: syntax error: '+'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(44,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(44,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(66,1): error C2065: 'map': undeclared identifier
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(67,1): error C2065: 'map': undeclared identifier
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(70,1): error C2065: 'map': undeclared identifier
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(75,1): error C2065: 'map': undeclared identifier
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(79,1): error C2059: syntax error: '+'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(81,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(81,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(90,1): error C2059: syntax error: '+'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(92,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(92,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(101,1): error C2059: syntax error: '+'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(103,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(103,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(112,1): error C2059: syntax error: '+'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(112,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(112,28): error C2146: syntax error: missing ';' before identifier 'đua'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(114,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(114,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(170,1): error C2059: syntax error: '+'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(173,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(173,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(200,1): error C3861: 'textcolor': identifier not found
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(202,1): error C3861: 'textcolor': identifier not found
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(207,1): error C3861: 'VeHinh': identifier not found
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(209,1): error C3861: 'VeHinh': identifier not found
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(213,1): error C3861: 'VeHinh': identifier not found
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(214,1): error C3861: 'VeHinh': identifier not found
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(215,1): error C3861: 'VeHinh': identifier not found
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(223,1): error C3861: 'VeHinh': identifier not found
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(231,1): error C3861: 'VeHinh': identifier not found
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(233,1): error C3861: 'ghidiem': identifier not found
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(239,1): error C3861: 'VeHinh': identifier not found
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(241,1): error C3861: 'docdiem': identifier not found
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(249,1): error C2059: syntax error: '+'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(251,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(251,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(362,1): error C2059: syntax error: '+'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(364,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(364,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(374,1): error C2059: syntax error: '+'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(376,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dang Ngoc Cuong\source\repos\cuongdz\cuongdz\cuongdz.cpp(376,1): error C2447: '{': missing function header (old-style formal list?)
